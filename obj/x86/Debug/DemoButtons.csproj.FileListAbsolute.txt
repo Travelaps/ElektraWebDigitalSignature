@@ -1,0 +1,75 @@
+D:\STU-SDK-Samples-Copyright\STU-SDK-Samples\csharp\DemoButtons\bin\Debug\DemoButtons.exe
+D:\STU-SDK-Samples-Copyright\STU-SDK-Samples\csharp\DemoButtons\bin\Debug\DemoButtons.pdb
+D:\STU-SDK-Samples-Copyright\STU-SDK-Samples\csharp\DemoButtons\bin\Debug\Interop.wgssSTU.dll
+D:\STU-SDK-Samples-Copyright\STU-SDK-Samples\csharp\DemoButtons\obj\x86\Debug\DemoButtons.csprojResolveAssemblyReference.cache
+D:\STU-SDK-Samples-Copyright\STU-SDK-Samples\csharp\DemoButtons\obj\x86\Debug\DemoButtons.DemoButtonsForm.resources
+D:\STU-SDK-Samples-Copyright\STU-SDK-Samples\csharp\DemoButtons\obj\x86\Debug\DemoButtons.SignatureForm.resources
+D:\STU-SDK-Samples-Copyright\STU-SDK-Samples\csharp\DemoButtons\obj\x86\Debug\DemoButtons.Properties.Resources.resources
+D:\STU-SDK-Samples-Copyright\STU-SDK-Samples\csharp\DemoButtons\obj\x86\Debug\DemoButtons.csproj.GenerateResource.Cache
+D:\STU-SDK-Samples-Copyright\STU-SDK-Samples\csharp\DemoButtons\obj\x86\Debug\DemoButtons.exe
+D:\STU-SDK-Samples-Copyright\STU-SDK-Samples\csharp\DemoButtons\obj\x86\Debug\DemoButtons.pdb
+D:\STU-SDK-Samples-Copyright\csharp\DemoButtons\obj\x86\Debug\DemoButtons.exe
+D:\STU-SDK-Samples-Copyright\csharp\DemoButtons\obj\x86\Debug\DemoButtons.pdb
+D:\STU-SDK-Samples-Copyright\csharp\DemoButtons\bin\Debug\DemoButtons.exe
+D:\STU-SDK-Samples-Copyright\csharp\DemoButtons\bin\Debug\DemoButtons.pdb
+D:\STU-SDK-Samples-Copyright\csharp\DemoButtons\bin\Debug\Interop.wgssSTU.dll
+D:\STU-SDK-Samples-Copyright\csharp\DemoButtons\obj\x86\Debug\DemoButtons.csprojResolveAssemblyReference.cache
+D:\STU-SDK-Samples-Copyright\csharp\DemoButtons\obj\x86\Debug\DemoButtons.DemoButtonsForm.resources
+D:\STU-SDK-Samples-Copyright\csharp\DemoButtons\obj\x86\Debug\DemoButtons.SignatureForm.resources
+D:\STU-SDK-Samples-Copyright\csharp\DemoButtons\obj\x86\Debug\DemoButtons.Properties.Resources.resources
+D:\STU-SDK-Samples-Copyright\csharp\DemoButtons\obj\x86\Debug\DemoButtons.csproj.GenerateResource.Cache
+D:\STU-SDK-Samples-Copyright\Extras\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.exe
+D:\STU-SDK-Samples-Copyright\Extras\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.pdb
+D:\STU-SDK-Samples-Copyright\Extras\csharp\DemoButtonsHIDSerial\bin\Debug\DemoButtons.exe
+D:\STU-SDK-Samples-Copyright\Extras\csharp\DemoButtonsHIDSerial\bin\Debug\DemoButtons.pdb
+D:\STU-SDK-Samples-Copyright\Extras\csharp\DemoButtonsHIDSerial\bin\Debug\Interop.wgssSTU.dll
+D:\STU-SDK-Samples-Copyright\Extras\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.csprojResolveAssemblyReference.cache
+D:\STU-SDK-Samples-Copyright\Extras\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.DemoButtonsForm.resources
+D:\STU-SDK-Samples-Copyright\Extras\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.SignatureForm.resources
+D:\STU-SDK-Samples-Copyright\Extras\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.Properties.Resources.resources
+D:\STU-SDK-Samples-Copyright\Extras\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.csproj.GenerateResource.Cache
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.csprojAssemblyReference.cache
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.DemoButtonsForm.resources
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.FrmLogin.resources
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.SignatureForm.resources
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.Properties.Resources.resources
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.csproj.GenerateResource.cache
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.csproj.CoreCompileInputs.cache
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\bin\Debug\DemoButtons.exe.config
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\bin\Debug\DemoButtons.exe
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\bin\Debug\DemoButtons.pdb
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\bin\Debug\Newtonsoft.Json.dll
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\bin\Debug\Newtonsoft.Json.xml
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.csproj.CopyComplete
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.exe
+C:\Djital İmza\csharp\DemoButtonsHIDSerial\obj\x86\Debug\DemoButtons.pdb
+C:\Dijital İmza Projesi\bin\Debug\DemoButtons.exe.config
+C:\Dijital İmza Projesi\bin\Debug\DemoButtons.exe
+C:\Dijital İmza Projesi\bin\Debug\DemoButtons.pdb
+C:\Dijital İmza Projesi\bin\Debug\Newtonsoft.Json.dll
+C:\Dijital İmza Projesi\bin\Debug\Newtonsoft.Json.xml
+C:\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.csprojAssemblyReference.cache
+C:\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.DemoButtonsForm.resources
+C:\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.FrmLogin.resources
+C:\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.SignatureForm.resources
+C:\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.Properties.Resources.resources
+C:\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.csproj.GenerateResource.cache
+C:\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.csproj.CoreCompileInputs.cache
+C:\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.csproj.CopyComplete
+C:\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.exe
+C:\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.pdb
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\bin\Debug\DemoButtons.exe.config
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\bin\Debug\DemoButtons.exe
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\bin\Debug\DemoButtons.pdb
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.DemoButtonsForm.resources
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.FrmLogin.resources
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.SignatureForm.resources
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.Properties.Resources.resources
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.csproj.GenerateResource.cache
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.csproj.CoreCompileInputs.cache
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.csproj.CopyComplete
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.exe
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.pdb
+C:\Users\SERKAN\Desktop\Yeni klasör\Dijital İmza Projesi\obj\x86\Debug\DemoButtons.csprojAssemblyReference.cache
