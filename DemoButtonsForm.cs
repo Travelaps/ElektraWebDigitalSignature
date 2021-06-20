@@ -21,7 +21,7 @@ using System.Windows.Forms;
 
 namespace DemoButtons
 {
-    public partial class FrmMain : Form
+    public partial class DemoButtonsForm : Form
     {
         private string loginToken;
         string HotelId;
@@ -46,7 +46,7 @@ namespace DemoButtons
 
         }
 
-        public FrmMain()
+        public DemoButtonsForm()
         {
             InitializeComponent();
             radHID.Checked = true;

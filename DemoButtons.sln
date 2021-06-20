@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1062
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektraWebDigitalSignature", "ElektraWebDigitalSignature.csproj", "{37E67980-1809-473B-8DE7-B36D18A1BAAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoButtons", "DemoButtons.csproj", "{37E67980-1809-473B-8DE7-B36D18A1BAAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

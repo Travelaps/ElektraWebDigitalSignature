@@ -81,7 +81,7 @@ namespace DemoButtons
     // To help understand, we have left the calculations in place rather than optimise them.
 
 
-    FrmMain m_parent;   // give access to calling form
+    DemoButtonsForm m_parent;   // give access to calling form
 
     private PointF tabletToClient(wgssSTU.IPenData penData)
     {
@@ -435,7 +435,7 @@ namespace DemoButtons
     }
 
     // Pass in the device you want to connect to!
-    public SignatureForm(FrmMain parent, wgssSTU.IUsbDevice usbDevice, wgssSTU.SerialInterface serialInterface, string fileNameCOMPort, string baudRate, bool HIDMode,string GName="")
+    public SignatureForm(DemoButtonsForm parent, wgssSTU.IUsbDevice usbDevice, wgssSTU.SerialInterface serialInterface, string fileNameCOMPort, string baudRate, bool HIDMode,string GName="")
     {
        GuestName = GName;
        int currentPenDataOptionMode;

@@ -1,6 +1,6 @@
 ﻿namespace DemoButtons
 {
-  partial class FrmMain
+  partial class DemoButtonsForm
   {
     /// <summary>
     /// Required designer variable.
@@ -216,7 +216,7 @@
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
             // 
-            // FrmMain
+            // DemoButtonsForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
@@ -224,7 +224,7 @@
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.PnlLog);
             this.Controls.Add(this.groupBox1);
-            this.Name = "FrmMain";
+            this.Name = "DemoButtonsForm";
             this.Text = "Digital Signature";
             this.Load += new System.EventHandler(this.DemoButtonsForm_Load);
             this.Shown += new System.EventHandler(this.DemoButtonsForm_Shown);

@@ -50,7 +50,7 @@ namespace DemoButtons
             password = txtPassword.Text;
             
 
-            FrmMain frm = new FrmMain();
+            DemoButtonsForm frm = new DemoButtonsForm();
             // t = true;
             // this.Hide();
             // return;
